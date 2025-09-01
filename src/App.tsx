@@ -13,7 +13,7 @@ const client = new OpenAI({
   //but this project is for demonstration purposes only.
 })
 
-function SubmitButton(){
+function SubmitButton() {
   return(
     <button type="submit">Submit Code</button>
   );
